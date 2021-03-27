@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: How to Rip Home Videos to the Cloud
 ---
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
@@ -12,11 +12,17 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
-## Setup Guide
+## Introduction
 
-### Create a repository from this template
+These instructions provide a step-by-step overview of how to transfer videos from physical DVD disks onto your computer and set them to automatically backup to a remote location. This introduction will help clarify some jargon and let you know what you need to get started.
 
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Use this template` button on the top right of the page.
+*What is “ripping”? It sounds dangerous.* “Ripping” is the colloquial term for copying data from a physical storage unit, like DVDs, onto a computer. A common misconception is that ripping comes from the phrase “rip off.” As long as the DVD you are copying does not have a copyright disclaimer, it is perfectly legal to rip its content.
+
+*What is “the cloud” and why should I use it for backups?* “The cloud” typically refers to services that are running on computers owned by technology companies that you can access through the internet. Google Drive for example, is a cloud storage service. It allows you to send files to Google owned computers for permanent storage. This is a good idea because Google spends a lot more money on harddrives than you. They are able to store multiple copies of the files you send to them, so there is virtually no chance that a computer dying will cause Google to lose your data. On the other hand, if your computer dies and you did not set up a cloud backup, there is a very high chance that the majority of your files will be lost. So backup, and backup often!
+
+
+*I have a lot of DVDs, will I be able to use my computer for other tasks while I’m ripping videos?* Yes, you will. In general, ripping is a low-resource operation. However, this process will occupy your disk drive, so you will be unable to read disks unless you have multiple drives.
+
 
 ### Choose a name for your repository
 

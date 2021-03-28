@@ -20,7 +20,7 @@ These instructions provide a step-by-step overview of how to transfer videos fro
 * Disk drive \*\*
 * Google account: If you do not have a Google account you can [set one up here](https://www.google.com/account/about/)
 * Handbrake: Handbrake is a free open-source video transcoder [available here](https://handbrake.fr/)
-* Backup & Sync Google Drive: This is a free backup tool made by Google available here: [https://www.google.com/intl/en_gh/drive/download/](https://www.google.com/intl/en_gh/drive/download/)
+* Backup & Sync Google Drive: This is a free backup tool made by Google available here: [available here](https://www.google.com/intl/en_gh/drive/download/)
 
 
 \*These instructions will include screenshots from a Mac computer, however the steps will be almost identical for Windows machines

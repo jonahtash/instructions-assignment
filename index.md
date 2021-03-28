@@ -18,15 +18,15 @@ These instructions provide a step-by-step overview of how to transfer videos fro
 
 * Laptop \*
 * Disk drive \*\*
-* Google account: If you do not have a Google account you can set one up here: [https://www.google.com/account/about/](https://www.google.com/account/about/)
-* Handbrake: Handbrake is a free open-source video transcoder available here: [https://handbrake.fr/](https://handbrake.fr/)
+* Google account: If you do not have a Google account you can [set one up here](https://www.google.com/account/about/)
+* Handbrake: Handbrake is a free open-source video transcoder [available here](https://handbrake.fr/)
 * Backup & Sync Google Drive: This is a free backup tool made by Google available here: [https://www.google.com/intl/en_gh/drive/download/](https://www.google.com/intl/en_gh/drive/download/)
 
 
 \*These instructions will include screenshots from a Mac computer, however the steps will be almost identical for Windows machines
 
 
-\*\*If your computer does not have a built-in disk drive, you will have to purchase an external disk drive. Here is a link to a somewhat pricier but reliable model available on Amazon: [https://www.amazon.com/ASUS-ZenDrive-External-Compatible-BackItUp/dp/B076CY7PW5](https://www.amazon.com/ASUS-ZenDrive-External-Compatible-BackItUp/dp/B076CY7PW5/ref=sxin_10)
+\*\*If your computer does not have a built-in disk drive, you will have to purchase an external disk drive. Here is a link to a somewhat pricier (approx. $35) but reliable model [available on Amazon](https://www.amazon.com/ASUS-ZenDrive-External-Compatible-BackItUp/dp/B076CY7PW5/ref=sxin_10)
 
 ## Instructions
 ### Part 1: Setup
@@ -106,6 +106,6 @@ Press the "Start Queue" button at the top of Handbrake.
 **I got a popup about copyright violations after I selected my DVD in open source. Should I be worried?** You shouldn't necessarily be worried. Handbrake will issue that message when you are trying to copy from a copy-protected DVD. A DVD could be copy-protected for a number of reasons and it is not necessarily illegal to rip a copy-protected DVD. If you recorded the DVD yourself, it is most likely legal to rip its contents.
 **Nothing happens when I click "Add To Queue"** You can view the queue on the upper right-hand corner of Handbrake to verify that the track has been added to the rip queue.
 ## Summary
-These instructions provide step-by-step directions on how to rip DVDs and set them to automatically back up on Google Drive. Once you have completely transferred your home videos from physical disks onto Google Drive, you can view your files by navigating to [http://drive.google.com](http://drive.google.com). You should see your output folder under Computers \> Your Computer Name.
+These instructions provide step-by-step directions on how to rip DVDs and set them to automatically back up on Google Drive. Once you have completely transferred your home videos from physical disks onto Google Drive, you can view your files by navigating to [Google Drive](http://drive.google.com). You should see your output folder under Computers \> Your Computer Name.
 ![img23](images/image23.png)
 Lastly, feel free to look into Google Drive's sharing features to send these videos to your friends and family. 
